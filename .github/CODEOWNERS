@@ -1,0 +1,22 @@
+# CODEOWNERS file for CryptoNoise-Ksampler
+# This file identifies code owners for automatic review assignment
+
+# Default owner for all code
+*       @Shadowwalker0P
+
+# Core cryptographic implementation
+cryptonoise_ksampler.py     @Shadowwalker0P
+
+# Tests
+**/*test*.py        @Shadowwalker0P
+
+# Documentation
+*.md                @Shadowwalker0P
+docs/               @Shadowwalker0P
+
+# Configuration files
+.github/            @Shadowwalker0P
+.gitignore          @Shadowwalker0P
+
+# GitHub workflows and CI/CD
+.github/workflows/  @Shadowwalker0P
