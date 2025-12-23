@@ -1,4 +1,5 @@
 name: Tests and Linting
+
 on:
   push:
       branches: [ main ]
