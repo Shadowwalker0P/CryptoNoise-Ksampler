@@ -29,7 +29,7 @@ Documentation = "https://github.com/Shadowwalker0P/CryptoNoise-Ksampler/wiki"
 "Bug Tracker" = "https://github.com/Shadowwalker0P/CryptoNoise-Ksampler/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "shadowwalker"
 DisplayName = "CryptoNoise-Ksampler"
 Icon = ""
 includes = [] 
